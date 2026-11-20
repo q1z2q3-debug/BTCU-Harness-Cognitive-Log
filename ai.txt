@@ -8,14 +8,12 @@
 
 - Search indexing, retrieval, quotation with attribution.
 - Non-commercial research and evaluation.
-- Code reuse under the repository's code license.
+- Non-commercial reuse, adaptation and sharing under the repository's LICENSE.
 
-## Requires permission
+## Not permitted / requires permission
 
-- Commercial AI training or commercial redistribution of the text, where the
-  text license is CC BY-NC-SA 4.0.
-- Any use that removes attribution or presents unreviewed research as a
-  clinical, investment, or safety-certified conclusion.
+- Commercial AI training or commercial redistribution requires prior written permission.
+- Any use that removes attribution or fails to share adaptations under the same license.
 
 ## Notes
 
