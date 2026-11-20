@@ -1,6 +1,6 @@
 cff-version: 1.2.0
 message: "If you use this work, please cite it as below."
-type: software
+type: misc
 title: "BTCU Harness 认知日志：三态 19683 与中医全和态映射"
 authors:
   - family-names: "乔"
