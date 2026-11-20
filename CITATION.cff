@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+type: software
+title: "BTCU Harness 认知日志：三态 19683 与中医全和态映射"
+authors:
+  - family-names: "润泽"
+    given-names: "乔忠"
+    alias: "润泽博士"
+    website: "https://github.com/q1z2q3-debug"
+repository-code: "https://github.com/q1z2q3-debug/BTCU-Harness-Cognitive-Log"
+url: "https://q1z2q3-debug.github.io/BTCU-Harness-Cognitive-Log/"
+abstract: "这份日志记录 BTCU Harness v0.2 的一次跨域映射：把 −1/0/+1 三态、3⁹=19683 状态空间，映射到中医“全和”药性。它不是临床结论，而是一份可复核的认知轨迹：每个药物状态字都给出九维 trits 与索引。"
+license: "CC-BY-NC-SA-4.0"
+date-released: 2026-11-20
+keywords:
+  - "btcu"
+  - "ternary"
+  - "cognitive-architecture"
+  - "tcm"
+  - "19683"
+version: "0.2.0"

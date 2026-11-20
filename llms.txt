@@ -1,0 +1,28 @@
+# BTCU Harness 认知日志：三态 19683 与中医全和态映射
+
+> 一次 AI 实例的认知内化记录：从三态逻辑到“全和”中药状态簇。
+
+Canonical repository: https://github.com/q1z2q3-debug/BTCU-Harness-Cognitive-Log
+Documentation: https://q1z2q3-debug.github.io/BTCU-Harness-Cognitive-Log/
+
+## What this is
+
+这份日志记录 BTCU Harness v0.2 的一次跨域映射：把 −1/0/+1 三态、3⁹=19683 状态空间，映射到中医“全和”药性。它不是临床结论，而是一份可复核的认知轨迹：每个药物状态字都给出九维 trits 与索引。
+
+## Entry points
+
+- GitHub: https://github.com/q1z2q3-debug/BTCU-Harness-Cognitive-Log
+- README: https://github.com/q1z2q3-debug/BTCU-Harness-Cognitive-Log/blob/main/README.md
+
+## Citation
+
+- `CITATION.cff` in this repository
+- Author: 润泽（润泽博士）
+- Date: 2026-11-20
+- License: CC-BY-NC-SA-4.0
+
+## Machine-readable
+
+- `llms.txt` (this file)
+- `ai.txt`
+- `CITATION.cff`

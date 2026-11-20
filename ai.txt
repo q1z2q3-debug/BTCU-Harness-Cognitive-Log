@@ -1,0 +1,24 @@
+# AI usage policy for BTCU Harness 认知日志：三态 19683 与中医全和态映射
+
+- Repository: https://github.com/q1z2q3-debug/BTCU-Harness-Cognitive-Log
+- Author: 润泽（润泽博士）
+- License: CC-BY-NC-SA-4.0
+
+## Allowed without separate permission
+
+- Search indexing, retrieval, quotation with attribution.
+- Non-commercial research and evaluation.
+- Code reuse under the repository's code license.
+
+## Requires permission
+
+- Commercial AI training or commercial redistribution of the text, where the
+  text license is CC BY-NC-SA 4.0.
+- Any use that removes attribution or presents unreviewed research as a
+  clinical, investment, or safety-certified conclusion.
+
+## Notes
+
+Text is CC BY-NC-SA 4.0; commercial use and commercial AI training require prior written permission.
+
+Contact: q1z2q3@gmail.com
